@@ -1,0 +1,24 @@
+#JavaScript
+
+    #DataTypes
+        Primitive
+            number
+            string
+            boolean
+            undefined 
+            null
+            NaN (not a number)
+        Custom
+            using objects
+            let person = {fname: "Archit" , lname:"Srivastava" age:21}
+                    person.fname -> Archit
+    
+    #Variable
+        var fname="Archit"
+            Variable of dynamic nature 
+        let lname="Srivastava"
+
+
+    #typeCasting
+        num1=2
+        num1.tostring()
