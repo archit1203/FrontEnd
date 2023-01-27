@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+
+.box{
+    /* background-color: purple; */
+    height: 300px;
+    width: 300px;
+    border: 7px solid;
+    padding: 25px;
+    border-bottom-left-radius: 30px;
+}
