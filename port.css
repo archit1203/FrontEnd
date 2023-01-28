@@ -48,3 +48,7 @@ table, tr, td, th{
 tr,td,th{
     padding: 2px;
 }
+
+.dynamic-color{
+    color: royalblue;
+}
