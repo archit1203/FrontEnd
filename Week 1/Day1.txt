@@ -1,0 +1,9 @@
+Front End -> User Interacts, HTML/CSS/JS
+Back End -> Client submits a query to the server which in turn Interacts with the DB to launch a response. 
+                    node.js, asp.net, Java              MYSQL, mongoDB
+
+
+----------------FRONT END---------------------
+HTML: Allows us to structure the document using markup
+CSS: Allows us to style the website
+JS: Allows us to add interactivity and respond to user actions

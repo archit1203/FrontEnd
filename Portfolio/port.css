@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    padding: 16px;
+}
+
+.container > div > h2{
+    text-align: center;
+}
+
+.intro{
+    margin: -16px;
+    text-align: center;
+    padding: 16px;
+    background-color: #1d1c1c;
+    color: white; 
+}
+
+#profile-img{
+    height: 200px;
+    border-radius: 16px;
+}
+
+.social-links img{
+    height: 25px;
+}
+
+.social-links a{
+    text-decoration: none;
+    margin: auto 16px
+}
+table{
+    width: 100%;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+table, tr, td, th{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+tr,td,th{
+    padding: 2px;
+}
+
+.dynamic-color{
+    color: royalblue;
+}

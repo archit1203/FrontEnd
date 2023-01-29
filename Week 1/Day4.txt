@@ -1,0 +1,20 @@
+#CamelCase
+    e.g.
+        compareNumber
+
+#Document Object Model(DOM)
+    Tree like structure for all tags availble
+    Makes use of special function called parse
+        It creates DOM node when encounters a tag
+            DOM node is basically an Object
+    
+
+
+    e.g.
+                         HTML
+                    /           \
+                HEAD            BODY
+            /              /    /      \
+        TITLE           P      P        P 
+                        |
+                      SPAN
